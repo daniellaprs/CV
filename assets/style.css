@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: yellowgreen
+}
+
+.border-box {
+    border: 2rem ;
+    padding: 6rem;
+}
+
+
+p {
+    color: green;
+}
+
+h2 {
+    color: brown;
+}
+
+p {
+    color: tomato;
+}
